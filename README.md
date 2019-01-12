@@ -14,7 +14,10 @@ Smart solutions for biological systems.
     * 1x Sonic fogger.
     * 1x Air pump.
     * 1x AC wall plug cable.
-    * 1x 12 VDC PC fan (with a built in 5 VDC ws2812 "NeoPixel" LED's).   
+    * 1x 12 VDC PC fan (with a built in 5 VDC ws2812 "NeoPixel" LED's).  
+    * 1x 1k resistor.
+    * 1x irlb8721 MOSFET.
+    * 1+ capacitor (for current smoothing, PWM controlling a motor with "dirty" current makes for a noisey MOSFET).
     * 1x Liquid Crystal Display (20x4).
     * 1x Relay (2 channel).  One channel for the mister, one for the air pump.
     * 1x RTC.  For clock and timer related functions.

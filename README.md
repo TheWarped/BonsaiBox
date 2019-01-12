@@ -11,14 +11,14 @@ Smart solutions for biological systems.
   that is more catered to tropical species and fungi.
   
     Components of the BonsaiBox are:
-    * 1x Sonic fogger.
+    * 1x Sonic fogger (24VDC).  There's some cheap ones around that allow for replacing the perishable disks, some also blink red when         there isn't enough water.
     * 1x Air pump.
     * 1x AC wall plug cable.
     * 1x 12 VDC PC fan (with a built in 5 VDC ws2812 "NeoPixel" LED's).  
-    * 1x 1k resistor.
-    * 1x irlb8721 MOSFET.
+    * 1x 1k resistor for fan control circuit.
+    * 1x irlb8721 MOSFET for fan control circuit.
     * 1+ capacitor (for current smoothing, PWM controlling a motor with "dirty" current makes for a noisey MOSFET).
-    * 1x Liquid Crystal Display (20x4).
+    * 1x I2C Liquid Crystal Display (20x4).
     * 1x Relay (2 channel).  One channel for the mister, one for the air pump.
     * 1x RTC.  For clock and timer related functions.
     * 1x BMP 280.  For pressure, temperature, and humidity. 3.3v!

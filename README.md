@@ -40,8 +40,7 @@ Smart solutions for biological systems.
 
 ![screenshot 38](https://user-images.githubusercontent.com/46633771/51078723-0ebad780-1688-11e9-8134-c8e9ff7da137.png)
 ![file-6](https://user-images.githubusercontent.com/46633771/51078961-83901080-168c-11e9-8692-31f8562c507f.jpeg)
-![file1-1](https://user-images.githubusercontent.com/46633771/51078974-dc5fa900-168c-11e9-83c3-34f9b46a0c92.jpeg)
-
+![file1-1](https://user-images.githubusercontent.com/46633771/51078987-234d9e80-168d-11e9-89af-12701f6810ec.jpeg)
 
 
     To code:

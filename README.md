@@ -35,3 +35,9 @@ Smart solutions for biological systems.
     * Scale light intensity with temperature.
     * If RH is ok, but it's too hot, increase fan speed more.
     * Scale fan with VPD.
+
+
+
+![screenshot 38](https://user-images.githubusercontent.com/46633771/51078723-0ebad780-1688-11e9-8134-c8e9ff7da137.png)
+
+

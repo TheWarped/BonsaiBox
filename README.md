@@ -39,6 +39,8 @@ Smart solutions for biological systems.
     * Don't forget to tie the ground of the fan to the Arduino's ground or it won't work. 
 
 ![screenshot 38](https://user-images.githubusercontent.com/46633771/51078723-0ebad780-1688-11e9-8134-c8e9ff7da137.png)
+![file-6](https://user-images.githubusercontent.com/46633771/51078961-83901080-168c-11e9-8692-31f8562c507f.jpeg)
+
 
 
     To code:

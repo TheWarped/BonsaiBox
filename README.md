@@ -36,7 +36,7 @@ Smart solutions for biological systems.
     * NeoPixels are sensitive, a few burned out during the project, be careful!
     * Below is a rough diagram made in tinkercad of how most of the wiring would go, note the relay load's are not shown, and several         of the componments in the diagram are representative of what was used, but not the actual parts.  The actual parts used have           been notated above.
     * You need to load your RTC's time using a different sketch.  You may need to do this one last or agian before setting up as               sometimes it's stored date can become altered while constructing and testing the I2C bus for the curcuit. 
-
+    * Don't forget to tie the ground of the fan to the Arduino's ground or it won't work. 
 
 ![screenshot 38](https://user-images.githubusercontent.com/46633771/51078723-0ebad780-1688-11e9-8134-c8e9ff7da137.png)
 

@@ -3,6 +3,7 @@ Smart solutions for biological systems.
 
   BonsaiBox v1 - "Enoki" 
   by Traverse Jurcisin
+  GitHub - TheWarped
 
   BonsaiBox is an Arduino controlled growth chamber.
   The chamber is intended for the growth, maintenance, 
@@ -26,18 +27,17 @@ Smart solutions for biological systems.
     * 1x 12 VDC buck converter.  Make sure it can produce enough amps!
     * 1x 5 VDC buck converter.  Make sure it can produce enough amps!
 
-    Tips/ notes: 
-    * Shield the sonic fogger from debree, make sure there's only a few cm of water above it, but give the fog a clear path to spread           through the enclosure.
+    Tips/ Notes: 
+    * Shield the sonic fogger from debree, make sure there's only a few cm of water above it, but give the fog a clear path to spread         through the enclosure.
     * The fan speed CFM program is rough.  Make sure to check your fans CFM and enter it in, mine was rated for 30 CFM.
-    * NeoPixels are sensitive, I burned a few out while getting to know them better, be careful!
-
-    To code:
-    * Scale light intensity with temperature.
-    * If RH is ok, but it's too hot, increase fan speed more.
-    * Scale fan with VPD.
-
+    * NeoPixels are sensitive, a few burned out during the project, be careful!
+    * Below is a rough diagram made in tinkercad of how most of the wiring would go, note the relay load's are not shown, and several       of the componments in the diagram are representative of what was used, but not the actual parts.  The actual parts used have           been notated above.
 
 
 ![screenshot 38](https://user-images.githubusercontent.com/46633771/51078723-0ebad780-1688-11e9-8134-c8e9ff7da137.png)
 
 
+    To code:
+    * Scale light intensity with temperature.
+    * If RH is ok, but it's too hot, increase fan speed more.
+    * Scale fan with VPD.
